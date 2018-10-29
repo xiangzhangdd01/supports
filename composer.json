@@ -1,17 +1,7 @@
 {
-    "name": "yansongda/supports",
+    "name": "dd01/dd01-php-shared-lib/src/paycenter/supports",
     "description": "common components",
-    "keywords": ["support", "array", "collection", "config", "http", "guzzle"],
-    "support": {
-        "issues": "https://github.com/yansongda/supports/issues",
-        "source": "https://github.com/yansongda/supports"
-    },
-    "authors": [
-        {
-            "name": "yansongda",
-            "email": "me@yansongda.cn"
-        }
-    ],
+    
     "require": {
         "php": ">=5.5",
         "monolog/monolog": "^1.23",
