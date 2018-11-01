@@ -1,5 +1,5 @@
 {
-    "name": "dd01/dd01-php-shared-lib/src/paycenter/supports",
+    "name": "paycenter/supports",
     "description": "common components",
     
     "require": {
